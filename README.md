@@ -15,3 +15,4 @@ The prototype will remain unmerged until feedback from the coaching staff confir
 # Reflection on Innovation and Version Control
 Branches support low-risk experimentation because they allow the organization to test a new strategy without disrupting the main system.
 GitHub helps analytics ideas gain traction by clearly documenting the project, showing how the idea changes over time, and allowing decision makers to provide feedback before the idea is fully implemented.
+This workflow follows Chapter 7 because the idea is first created, then tested in a prototype branch, reviewed through feedback from coaches, and only moved into the build phase if it proves useful
