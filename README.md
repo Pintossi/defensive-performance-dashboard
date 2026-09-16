@@ -8,3 +8,5 @@ The dashboard would combine match video analysis with GPS and tracking data to h
 Coaches would use the dashboard after each match during post-game video sessions and again before upcoming matches. This would help them make appropriate decisions about tactics, defensive strategy, and formation based on the trends identified in the data.
 # Connection to Chapter 7
 This project is currently in the creative phase because the main idea, purpose, data sources, and use by coaches are still being defined. The dashboard has not yet been fully tested or implemented.
+# Prototype Enhancement
+This could help coaches create a more specific defensive game plan and also support lineup decisions by identifying which players are better suited to deal with the opponent’s main attacking threats.
