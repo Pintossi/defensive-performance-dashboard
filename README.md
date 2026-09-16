@@ -10,3 +10,5 @@ Coaches would use the dashboard after each match during post-game video sessions
 This project is currently in the creative phase because the main idea, purpose, data sources, and use by coaches are still being defined. The dashboard has not yet been fully tested or implemented.
 # Prototype Evaluation
 The prototype should not be integrated into the main project yet because we need to wait for feedback from the coaching staff. The feedback should help us understand if the opponent analysis is clear, useful for preparing the defensive game plan, and something the coaches would use regularly
+# Integration Decision
+The prototype will remain unmerged until feedback from the coaching staff confirms that the new opponent-analysis feature improves tactical preparation and decision-making.
